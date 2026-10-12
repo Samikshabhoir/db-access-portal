@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DB Access Portal — React + FastAPI Demo
 
 A UI-focused database access portal mockup using the intended stack:
@@ -88,3 +89,6 @@ git push
 ## Tech stack
 
 React · TypeScript · Vite · Python · FastAPI · Uvicorn · PostgreSQL (mock data)
+=======
+# db-access-portal
+>>>>>>> 698d68fb60945ebdc702ab9d9e69e6878ab186ba
